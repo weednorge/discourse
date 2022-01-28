@@ -19,12 +19,12 @@
       "Dracula": {
         "primary": "f2f2f2",
         "secondary": "282a36",
-        "tertiary": "bd93f9",
-        "quaternary": "8be9fd",
+        "tertiary": "578D2B",
+        "quaternary": "94b617",
         "header_background": "ffffff",
         "header_primary": "14151f",
-        "highlight": "f1fa8c",
-        "danger": "ff5555",
+        "highlight": "166ab6",
+        "danger": "#3d85c6",
         "success": "50fa7b",
         "love": "ff79c6"
       }
